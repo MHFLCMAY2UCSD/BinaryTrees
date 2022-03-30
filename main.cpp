@@ -1,9 +1,3 @@
-/*
-Michael Huang
-Professor Ross
-CISP 430
-March - 4 -2022
-*/
 #include<iostream>
 using namespace std;
 
